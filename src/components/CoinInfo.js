@@ -7,3 +7,4 @@ const CoinInfo = () => {
 export default CoinInfo;
 
 // Develoed by SahilMakvana
+// Develoed by SahilMakvana
