@@ -8,3 +8,4 @@ export const TrendingCoins = (currency) => `https://api.coingecko.com/api/v3/coi
 
 // Developed by SahilMakvana
 // Developed by SahilMakvana
+// Developed by SahilMakvana
